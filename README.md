@@ -5,13 +5,14 @@ Este repositório contém uma coleção de templates em LaTeX para diversos tipo
 ## Templates Disponíveis
 
 - [Artigo Acadêmico](artigo-academico)
-- [Relatório Técnico](templates/relatorio)
-- [Carta Formal](templates/carta)
-- [Apresentação Beamer](templates/apresentacao)
-- [Tese/Dissertação](templates/tese)
-- [Curriculum Vitae](templates/cv)
-- [Folha de Exercícios](templates/exercicios)
-- [Pôster Científico](templates/poster)
+- [Relatório Técnico](relatorio)
+- [Carta Formal](carta-formal)
+- [Apresentação Beamer](slide-beamer)
+- [Tese/Dissertação](tese-dissertacao)
+- [Curriculum Vitae](curriculum-vitae)
+- [Folha de Exercícios](lista-exercicios)
+- [Pôster Científico](poster)
+- [Lista com duas colunas](lista-2cols)
 
 ## Como Usar
 
