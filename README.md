@@ -16,8 +16,8 @@ Este repositório contém uma coleção de templates em LaTeX para diversos tipo
 ## Como Usar
 
 1. Navegue até a pasta do template desejado.
-2. Baixe o arquivo `.tex` e o PDF de exemplo.
-3. Edite o arquivo `.tex` conforme necessário.
+2. Baixe o arquivo `.tex`, e o PDF de exemplo se desejar.
+3. Edite o arquivo `.tex` com seu conteúdo.
 4. Compile o arquivo `.tex` para gerar o seu próprio PDF.
 
 Para compilar os arquivos `.tex`, você pode usar um editor de LaTeX como TeXShop, TeXworks, Overleaf, ou qualquer outro de sua preferência.
