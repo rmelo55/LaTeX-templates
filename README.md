@@ -4,7 +4,7 @@ Este repositório contém uma coleção de templates em LaTeX para diversos tipo
 
 ## Templates Disponíveis
 
-- [Artigo Acadêmico](templates/artigo)
+- [Artigo Acadêmico](artigo-academico)
 - [Relatório Técnico](templates/relatorio)
 - [Carta Formal](templates/carta)
 - [Apresentação Beamer](templates/apresentacao)
