@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1722221878.66843 "/home/ricardo/MEGA/lab/latex-templates/artigo-academico/artigo-academico.tex" "artigo-academico.pdf" "artigo-academico" 1722221880.26299 0
+["pdflatex"] 1722221935.41787 "/home/ricardo/MEGA/lab/latex-templates/artigo-academico/artigo-academico.tex" "artigo-academico.pdf" "artigo-academico" 1722221937.03997 0
   "/home/ricardo/MEGA/lab/latex-templates/artigo-academico/artigo-academico.tex" 1722221876.25126 664 afef61789c4b3dbee2bedcd9ed1073e2 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
@@ -74,10 +74,10 @@
   "/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1722052551 5483422 a1ef07ac981a8b7f5985102f2de312a6 ""
   "/usr/local/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt" 1722052788 8239383 727ffe178993d4059c6881ecdcfc3479 ""
   "/usr/local/texlive/2024/texmf.cnf" 1722052510.21835 455 5b996dcaa0eb4ef14a83b026bc0a008c ""
-  "artigo-academico.aux" 1722221880.14326 526 9eb9c092fea28e2df15ed365dda1c9a7 "pdflatex"
-  "artigo-academico.out" 1722221880.14726 308 0000f814146fcef2b1e7786d5849bc21 "pdflatex"
+  "artigo-academico.aux" 1722221936.89526 526 9eb9c092fea28e2df15ed365dda1c9a7 "pdflatex"
+  "artigo-academico.out" 1722221936.89926 308 0000f814146fcef2b1e7786d5849bc21 "pdflatex"
   "artigo-academico.tex" 1722221876.25126 664 afef61789c4b3dbee2bedcd9ed1073e2 ""
-  "artigo-academico.toc" 1722221880.14726 205 d69980aa9fd2b420e43e1ce3a0c3e4d2 "pdflatex"
+  "artigo-academico.toc" 1722221936.89926 205 d69980aa9fd2b420e43e1ce3a0c3e4d2 "pdflatex"
   (generated)
   "artigo-academico.aux"
   "artigo-academico.log"
