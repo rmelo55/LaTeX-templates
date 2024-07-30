@@ -1,46 +1,76 @@
 \documentclass[a4paper,12pt]{article}
-\usepackage[utf8]{inputenc}
-\usepackage[brazil]{babel}
-\usepackage{lipsum}
-\usepackage{graphicx}
-\usepackage{hyperref}
-\usepackage{amsmath}
-\usepackage[left=2cm, right=2cm, top=3cm, bottom=3cm]{geometry}
+\usepackage[utf8]{inputenc} % .. Suporte para caracteres UTF-8
+\usepackage[T1]{fontenc} % ..... Codificação de fontes para suportar caracteres acentuados
+\usepackage[brazil]{babel} % ... Suporte para português brasileiro
+\usepackage{amsmath} % ......... Pacote para fórmulas matemáticas
+\usepackage{amssymb} % ......... Símbolos matemáticos adicionais
+\usepackage{graphicx} % ........ Inclusão de gráficos e figuras
+\usepackage{indentfirst} % ..... Indentar o primeiro parágrafo de cada seção
+\usepackage[
+    bottom=2cm, top=3cm, 
+    left=3cm, right=2cm]{geometry} % ......... Configuração das margens da página
+\usepackage{helvet} % ........................ Uso da fonte Helvetica
+\renewcommand{\familydefault}{\sfdefault} % .. Definir fonte sans-serif como padrão
+\usepackage{url} % ........................... Suporte para URLs
+\usepackage{lipsum} % ........................ Gerador de texto exemplo
+\usepackage{hyperref} % ...................... Criação de hyperlinks
+\usepackage{tocloft} % ....................... Personalização do sumário
+\usepackage{setspace} % ...................... Controle do espaçamento entre linhas
 
-\title{Título do Artigo}
-\author{Seu Nome}
-\date{\today}
+\onehalfspacing  % Defini o espaçamento de 1,5 linhas
 
 \begin{document}
 
-\maketitle
+\begin{center}
+    \textbf{\huge Título do Artigo} \\[3cm]
+\end{center}
+
+\begin{flushright}
+    Seu Nome \\[0.5cm]
+    \today
+\end{flushright}
+
 \begin{abstract}
-\lipsum[1]
+\noindent
+\lipsum[1] \\ \\
+\textbf{Palavras-chave}: palavra1, palavra2, palavra3.
 \end{abstract}
 
 \newpage
 
+\renewcommand{\contentsname}{\centerline{\textbf{SUMÁRIO}}}
 \tableofcontents
 \newpage
 
 \section{Introdução}
-\lipsum[2-3]
+\lipsum[3-4] 
+\cite{ref1}  % use esse no meio do texo logo após a palavra para citar o autor
 
 \subsection{Como funciona}
-\lipsum[1]
+\lipsum[5-6] \cite{ref1}
+
+\subsection{Características do objeto de estudo}
+\lipsum[7-8]
 
 \section{Desenvolvimento}
-\lipsum[4-6]
+\lipsum[9-10]
+
+\subsection{Comportamento dos participantes}
+\lipsum[11-12]
+
+\subsection{Reação após mudanças nas regras}
+\lipsum[13-14]
 
 \newpage
 
 \section{Conclusão}
-\lipsum[7]
+\lipsum[15-16]
+
 \newpage
 
-\begin{thebibliography}{9}
-\bibitem{ref1} Autor, \textit{Título do Livro}, Editora, Ano.
-\bibitem{ref2} Autor, \textit{Título do Artigo}, Revista, Volume, Número, Ano.
+\begin{thebibliography}{9} % caso você tenha 10 ou mais referências, digite 99
+    \bibitem{ref1} Autor1. \textit{Título do Livro}. Editora, Ano.
+    \bibitem{ref2} Autor2. \textit{Título do Artigo}. Revista, Volume, Número, Ano. Disponível em: \url{https://saraiva.com.br}. Acesso em: 30 jul. 2024.
 \end{thebibliography}
 
 \end{document}
