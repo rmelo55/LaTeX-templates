@@ -149,10 +149,10 @@ INPUT ./curriculum-vitae.out
 INPUT ./curriculum-vitae.out
 INPUT curriculum-vitae.out
 INPUT curriculum-vitae.out
-OUTPUT curriculum-vitae.pdf
 INPUT ./curriculum-vitae.out
 INPUT ./curriculum-vitae.out
 OUTPUT curriculum-vitae.out
+OUTPUT curriculum-vitae.pdf
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/adobe/helvetic/phvr8t.tfm
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/adobe/helvetic/phvr8t.tfm
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
