@@ -1,6 +1,6 @@
 # LaTeX Templates
 
-Este repositório contém uma coleção de templates em LaTeX para diversos tipos de documentos. Cada pasta contém o arquivo `.tex` com o código fonte e um PDF gerado como exemplo.
+Este repositório contém uma coleção de templates em LaTeX para diversos documentos acadêmicos. Cada pasta contém o arquivo `.tex` com o código fonte e um PDF gerado como exemplo.
 
 ## Templates Disponíveis
 
