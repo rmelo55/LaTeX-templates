@@ -153,3 +153,9 @@ INPUT /usr/share/texmf-dist/tex/latex/amsfonts/umsb.fd
 INPUT /usr/share/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm7.tfm
+INPUT /usr/share/texmf-dist/tex/latex/psnfss/ts1phv.fd
+INPUT /usr/share/texmf-dist/tex/latex/psnfss/ts1phv.fd
+INPUT /usr/share/texmf-dist/tex/latex/psnfss/ts1phv.fd
+INPUT curriculum-vitae.aux
+INPUT ./curriculum-vitae.out
+INPUT ./curriculum-vitae.out
