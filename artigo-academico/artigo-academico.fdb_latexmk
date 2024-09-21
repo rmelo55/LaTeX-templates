@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1726885988.18374 "/home/ricardo/MEGA/lab/latex-templates/artigo-academico/artigo-academico.tex" "artigo-academico.pdf" "artigo-academico" 1726885989.70974 0
-  "/home/ricardo/MEGA/lab/latex-templates/artigo-academico/artigo-academico.tex" 1726885987.66249 2486 8bd31b86afa166ddbe2793dac7f8f2a6 ""
+["pdflatex"] 1726886144.38025 "/home/ricardo/MEGA/lab/latex-templates/artigo-academico/artigo-academico.tex" "artigo-academico.pdf" "artigo-academico" 1726886147.17314 0
+  "/home/ricardo/MEGA/lab/latex-templates/artigo-academico/artigo-academico.tex" 1726886143.56798 2481 54492b2280b5ff9b23e7c97c9e821fc1 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc" 1136849721 2971 def0b6c1f0b107b3b936def894055589 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -105,10 +105,10 @@
   "/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1726748964.6569 5467645 128b85b7cde5f5edc5cb7f1dd7ff8736 ""
   "/usr/local/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt" 1726749225 8221469 e4515cd94a821a966090c84f590cfcab ""
   "/usr/local/texlive/2024/texmf.cnf" 1726748879.06362 455 5b996dcaa0eb4ef14a83b026bc0a008c ""
-  "artigo-academico.aux" 1726885989.57575 1216 bdeb9c64abc8d4b1fa958447000d659f "pdflatex"
-  "artigo-academico.out" 1726885989.57575 1134 f8ccbb390a1dc365512fa4afcf7de5af "pdflatex"
-  "artigo-academico.tex" 1726885987.66249 2486 8bd31b86afa166ddbe2793dac7f8f2a6 ""
-  "artigo-academico.toc" 1726885989.57909 613 cffa94a6139a520178ac22854e8ed3da "pdflatex"
+  "artigo-academico.aux" 1726886147.00456 1216 bdeb9c64abc8d4b1fa958447000d659f "pdflatex"
+  "artigo-academico.out" 1726886147.0079 1134 f8ccbb390a1dc365512fa4afcf7de5af "pdflatex"
+  "artigo-academico.tex" 1726886143.56798 2481 54492b2280b5ff9b23e7c97c9e821fc1 ""
+  "artigo-academico.toc" 1726886147.0079 613 cffa94a6139a520178ac22854e8ed3da "pdflatex"
   (generated)
   "artigo-academico.aux"
   "artigo-academico.log"
