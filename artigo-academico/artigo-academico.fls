@@ -88,6 +88,8 @@ INPUT /usr/local/texlive/2024/texmf-dist/tex/generic/infwarerr/infwarerr.sty
 INPUT /usr/local/texlive/2024/texmf-dist/tex/generic/infwarerr/infwarerr.sty
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/hycolor/hycolor.sty
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/hycolor/hycolor.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/auxhook/auxhook.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/auxhook/auxhook.sty
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/hyperref/nameref.sty
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/hyperref/nameref.sty
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/refcount/refcount.sty
@@ -98,8 +100,6 @@ INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/kvoptions/kvoptions.sty
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/kvoptions/kvoptions.sty
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/etoolbox/etoolbox.sty
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/etoolbox/etoolbox.sty
-INPUT /usr/local/texlive/2024/texmf-dist/tex/generic/stringenc/stringenc.sty
-INPUT /usr/local/texlive/2024/texmf-dist/tex/generic/stringenc/stringenc.sty
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/hyperref/pd1enc.def
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/hyperref/pd1enc.def
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/hyperref/pd1enc.def
