@@ -3,31 +3,76 @@
 \usepackage{lipsum}
 \usepackage{amsmath}
 \usepackage[margin=2cm]{geometry}
-
-\title{Folha de Exercícios}
-\author{Seu Nome}
-\date{\today}
+\usepackage{enumerate}
+\usepackage{multicol}
+\usepackage{enumitem} % enumera das questões com letras
+\usepackage{helvet}
+\renewcommand{\familydefault}{\sfdefault}
 
 \begin{document}
 
-\maketitle
-\tableofcontents
-\newpage
+\hspace{-0.6cm} \textbf{Nome da Sua Escola Aqui} \\ 
+\vspace{-0.2cm}
 
-NOME: ___________________________________________________________________
+\hspace{-0.6cm} \textbf{Nome:} \hrulefill \\
+\vspace{-0.2cm}
 
-SÉRIE: ________________________________ TURMA: __________________________
+\hspace{-0.6cm} \textbf{Série:} \makebox[4cm]{\hrulefill} \hspace{0.5cm} \textbf{Turma:} \hrulefill
 
-\section{Questão 1}
-\lipsum[1]
+\vspace{0.5cm}
 
-\section{Questão 2}
-\lipsum[2]
+\begin{center}
+    \textbf{ATIVIDADES}
+\end{center}
 
-\section{Questão 3}
-\lipsum[3]
 
-\section{Questão 4}
-\lipsum[4]
+\hspace{-0.4cm} \textbf{Questão 1.} Qual é a forma da equação de uma reta, ou seja, sua definição matemática?
+
+\begin{enumerate}[label=\alph*)]
+    \begin{multicols}{2}
+        \item $ y = mx + b $
+        \item $ y = a + b $
+        \item $ y = ax + b $
+        \item $ y = bx + a $
+    \end{multicols}
+\end{enumerate}
+
+\vspace{0.5cm}
+
+\hspace{-0.4cm} \textbf{Questão 2.} Qual é o valor de $y$ quando $x = 2$ na equação $y = 3x + 1$?
+
+\begin{enumerate}[label=\alph*)]
+    \begin{multicols}{2}
+        \item 5
+        \item 6
+        \item 7
+        \item 8
+    \end{multicols}
+\end{enumerate}
+
+\vspace{0.5cm}
+
+\hspace{-0.4cm} \textbf{Questão 3.} Qual é a inclinação da reta na equação \(y = -2x + 4\)?
+
+\begin{enumerate}[label=\alph*)]
+    \begin{multicols}{2}
+        \item -2
+        \item 2
+        \item 4
+        \item -4
+    \end{multicols}
+\end{enumerate}
+
+\vspace{0.5cm}
+
+\hspace{-0.4cm} \textbf{Questão 4.} Qual é o valor de $m$ na equação da reta $y = 4x - 2$?
+\begin{enumerate}[label=\alph*)]
+    \begin{multicols}{2}
+        \item -2
+        \item 4
+        \item 2
+        \item 0
+    \end{multicols}
+\end{enumerate}
 
 \end{document}
