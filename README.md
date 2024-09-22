@@ -8,7 +8,6 @@ Este repositório contém uma coleção de templates em LaTeX para diversos docu
 - [Relatório Técnico](relatorio)
 - [Carta Formal](carta-formal)
 - [Apresentação Beamer](slide-beamer)
-- [Tese/Dissertação](tese-dissertacao)
 - [Curriculum Vitae](curriculum-vitae)
 - [Folha de Exercícios](lista-exercicios)
 - [Pôster Científico](poster)

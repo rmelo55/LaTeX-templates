@@ -1,4 +1,7 @@
 *.aux
+*.bbl
+*.fls
+*.fdb_latexmk
 *.log
 *.out
 *.toc
@@ -6,4 +9,5 @@
 *.snm
 *.ps
 *.gz
+*.synctex.gz
 *.fdb_latexmk
